@@ -1,6 +1,6 @@
 -- Exploratory Data Analysis Project:
 
--- Iniital Inspection of Data:
+-- Initial Inspection of Data:
 SELECT *
 FROM [Superstore_Project].[dbo].[superstore]
 ORDER BY COUNTRY, SEGMENT
